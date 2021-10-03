@@ -1,7 +1,7 @@
 # Grid Test task
 Implementation of test task using React.js
 
-### Description
+### Description:
 Create a 50x50 grid.
 Whenever you click on a cell in this grid,
 1 is added to all cells in the same row
@@ -14,3 +14,6 @@ cells form a part of a Fibonacci
 sequence, shortly light these cells up
 green and then empty these cells.
 
+### Run it:
+
+```yarn start```
